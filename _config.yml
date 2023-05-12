@@ -1,0 +1,11 @@
+name: RIP
+description: Commemorate your loved ones.
+
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false
+
+collections:
+  - notices
